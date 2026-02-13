@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Johan Georgescu</h1>
 <h3 align="center">A passionate programmer from Sweden</h3>
 
-- 🌱 I’m currently learning **C/C++, RISC-V Assembly, Unreal Engine, OpenGL**
-
-- 💬 Ask me about **Internship opportunities**
-
-- 📫 How to reach me **johan.georgescu.career@gmail.com**
-
-- ⚡ Fun fact **I frequently rank as a top player worldwide in multiple games**
+- I’m currently learning **C/C++, RISC-V Assembly, Unreal Engine, OpenGL**
+- Currently seeking **Internship opportunities**
+- Ask me about **Engineering, Algorithms, Computer Science**
+- How to reach me **johan.georgescu.career@gmail.com**
+- Fun fact **I frequently rank as a top player worldwide in multiple games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
