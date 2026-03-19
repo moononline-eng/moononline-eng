@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Johan Georgescu</h1>
-<h3 align="center">Computer Science student focused on real-time graphics and low-level systems (C++ / OpenGL). Interested in rendering, performance, and engine development.</h3>
+<h3 align="center">Computer Science student focused on real-time graphics (C++ / OpenGL) and high-performance systems.</h3>
 
-- I’m currently deep diving into **Python, C/C++, OpenGL**
+- I’m currently deep diving into **Python, C++, OpenGL**
 - Currently seeking **Internship opportunities**
 - Ask me about **Engineering, Algorithms, Computer Science**
 - How to reach me **johan.georgescu.career@gmail.com**
