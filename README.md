@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Johan Georgescu</h1>
-<h3 align="center">Computer Science student focused on real-time graphics (C++ / OpenGL) and high-performance systems.</h3>
+<h3 align="center">Passionate computer engineer student building real-time graphics and high-performance systems.</h3>
 
-- I’m currently deep diving into **Python, C++, OpenGL**
+- Building projects in **C++, OpenGL** and **Python**
+- Experience with **TypeScript, Java, Scala** and **Haskell**.
 - Currently seeking **Internship opportunities**
-- Ask me about **Engineering, Algorithms, Computer Science**
-- How to reach me **johan.georgescu.career@gmail.com**
-- Fun fact **I frequently rank as a top player worldwide in multiple games**
+- Ask me about **Engineering topics and computer science**
+- Contact: **johan.georgescu.career@gmail.com**
+- Fun fact: **I rank globally 0.1% in several competitive game titles**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
