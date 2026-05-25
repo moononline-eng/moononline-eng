@@ -3,7 +3,6 @@
 
 - Building projects in **C++, OpenGL** and **Python**
 - Experience with **TypeScript, Java, Scala** and **Haskell**.
-- Currently seeking **Internship opportunities**
 - Ask me about **Engineering topics and computer science**
 - Contact: **johan.georgescu.career@gmail.com**
 - Fun fact: **I rank globally 0.1% in several competitive game titles**
