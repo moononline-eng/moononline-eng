@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Johan Georgescu</h1>
-<h3 align="center">Passionate computer engineer student building real-time graphics and high-performance systems.</h3>
+<h3 align="center">Interested in Software Engineering, AI/ML, Graphics and System design</h3>
 
 - Building projects in **C++, OpenGL** and **Python**
 - Experience with **TypeScript, Java, Scala** and **Haskell**.
